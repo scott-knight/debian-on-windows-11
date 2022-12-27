@@ -539,7 +539,7 @@ nano .zsh_jobsauce
 
 <br/>
 
-Copy the [contents of .zsh_jobsauce](ZSH_JOBSAUCE.md) and save.
+Copy the [contents of .zsh_jobsauce](https://github.com/scott-knight/linux-on-windows-11/edit/main/ZSH_JOBSAUCE.md) and save.
 
 Type `reload` to reload the shell.
 

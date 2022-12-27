@@ -1,4 +1,4 @@
-[Home](https://github.com/scott-knight/debian-on-windows-11) | [Customize Debian](customize-debian.md#copy-zsh_functions)
+[Home](README.md) | [Customize Debian](customize-debian.md#copy-zsh_functions)
 
 <br/>
 
@@ -259,4 +259,4 @@ function gits () {
 
 <br/><br/>
 
-[Home](https://github.com/scott-knight/debian-on-windows-11) | [Customize Debian](customize-debian.md#copy-zsh_functions)
+[Home](README.md) | [Customize Debian](customize-debian.md#copy-zsh_functions)

@@ -1,4 +1,4 @@
-[Home](https://github.com/scott-knight/debian-on-windows-11) | [Customize Debian](customize-debian.md#copy-the-zshrc-content)
+[Home](README.md) | [Customize Debian](customize-debian.md#copy-the-zshrc-content)
 
 <br/>
 
@@ -236,4 +236,4 @@ source $HOME/.keychain/$HOSTNAME-sh
 
 <br/><br/>
 
-[Home](https://github.com/scott-knight/debian-on-windows-11) | [Customize Debian](customize-debian.md#copy-the-zshrc-content)
+[Home](README.md) | [Customize Debian](customize-debian.md#copy-the-zshrc-content)

@@ -1,4 +1,4 @@
-[Home](https://github.com/scott-knight/debian-on-windows-11) | [Customize Debian](customize-debian.md#setup-for-ruby-and-rails)
+[Home](README.md) | [Customize Debian](customize-debian.md#setup-for-ruby-and-rails)
 
 <br/>
 
@@ -166,4 +166,4 @@ alias rfix="chmod u+x bin/rails"
 
 <br/>
 
-[Home](https://github.com/scott-knight/debian-on-windows-11) | [Customize Debian](customize-debian.md#setup-for-ruby-and-rails)
+[Home](README.md) | [Customize Debian](customize-debian.md#setup-for-ruby-and-rails)

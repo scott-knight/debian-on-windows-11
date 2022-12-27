@@ -1,4 +1,4 @@
-[Home](https://github.com/scott-knight/linux-on-windows-11) | [Customize Debian](customize-debian.md#copy-zsh_alias_list-content)
+[Home](https://github.com/scott-knight/debian-on-windows-11) | [Customize Debian](customize-debian.md#copy-zsh_alias_list-content)
 
 <br/>
 
@@ -105,4 +105,4 @@ alias python="$(brew --prefix python)"
 ```
 <br/><br/>
 
-[Home](https://github.com/scott-knight/linux-on-windows-11) | [Customize Debian](customize-debian.md#copy-zsh_alias_list-content)
+[Home](https://github.com/scott-knight/debian-on-windows-11) | [Customize Debian](customize-debian.md#copy-zsh_alias_list-content)

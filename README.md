@@ -13,14 +13,14 @@ I use this documentation for my own purposes, but you, the reader, are allowed t
 ### INFO
 Below is the step-by-step guide describing how to install all the bits needed to get a Linux (Debian) instance installed, set up, and customized to a state where you can use a console session to write and push code. I created this guide as a safety measure for restoring a destroyed Windows 11 installation and/or my Debian installation (which has happened several times). That being said, this is the list of things that need to be done in order to get things working:
 
-1. [Install WSL2](https://github.com/scott-knight/linux-on-windows-11/blob/main/install-wsl2.md)
-2. [Install VSCode (if you want)](https://github.com/scott-knight/linux-on-windows-11/blob/main/install-vscode.md)
-3. [Install Windows Terminal](https://github.com/scott-knight/linux-on-windows-11/blob/main/install-windows-terminal.md)
-4. [Install oh-my-posh and required libraries](https://github.com/scott-knight/linux-on-windows-11/blob/main/install-oh-my-posh-and-required-libraries.md)
-5. [Configure Windows Terminal](https://github.com/scott-knight/linux-on-windows-11/blob/main/configure-windows-terminal.md)
+1. [Install WSL2](https://github.com/scott-knight/debian-on-windows-11/blob/main/install-wsl2.md)
+2. [Install VSCode (if you want)](https://github.com/scott-knight/debian-on-windows-11/blob/main/install-vscode.md)
+3. [Install Windows Terminal](https://github.com/scott-knight/debian-on-windows-11/blob/main/install-windows-terminal.md)
+4. [Install oh-my-posh and required libraries](https://github.com/scott-knight/debian-on-windows-11/blob/main/install-oh-my-posh-and-required-libraries.md)
+5. [Configure Windows Terminal](https://github.com/scott-knight/debian-on-windows-11/blob/main/configure-windows-terminal.md)
 6. [Install Debian](install-debian.md)
 7. [Customize Debian](customize-debian.md)
-8. [Unregister (from WSL) and Uninstall](https://github.com/scott-knight/linux-on-windows-11/blob/main/unregister-and-uninstall.md)
+8. [Unregister (from WSL) and Uninstall](https://github.com/scott-knight/debian-on-windows-11/blob/main/unregister-and-uninstall.md)
 
 ### IMPORTANT NOTES
 

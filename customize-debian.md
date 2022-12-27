@@ -1,4 +1,4 @@
-[Home](https://github.com/scott-knight/linux-on-windows-11) | [Previous Step](install-debian.md) | [Uninstall](unregister-and-uninstall.md)
+[Home](https://github.com/scott-knight/debian-on-windows-11) | [Previous Step](install-debian.md) | [Uninstall](unregister-and-uninstall.md)
 
 <br/>
 
@@ -643,4 +643,4 @@ If that doesn't work, I'm not sure what to tell you. WSL changes often and it re
 
 <br/><br/>
 
-[Home](https://github.com/scott-knight/linux-on-windows-11) | [Previous Step](install-debian.md)
+[Home](https://github.com/scott-knight/debian-on-windows-11) | [Previous Step](install-debian.md)
